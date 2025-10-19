@@ -1,0 +1,13 @@
+.row { padding: 6px 10px; }
+.nf  { margin-right: 10px; }
+
+.ip { font-family: "CaskaydiaCove Nerd Font", monospace; font-weight: 600; margin: 0 8px; }
+.ip.local { color: #7cc0ff; }   
+.ip.vpn   { color: #67dca8; }  
+
+window#haxbar {
+  border-radius: 18px;
+  background: #101215;
+  border: 1px solid #2b2f36;
+  box-shadow: 0 8px 24px rgba(0,0,0,.35);
+}

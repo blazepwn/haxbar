@@ -1,0 +1,19 @@
+window#haxbar {
+  border-radius: 18px;
+  background: #101215;
+  border: 1px solid #2b2f36;
+  box-shadow: 0 8px 24px rgba(0,0,0,.35);
+  /* “notch”marco superior sutil */
+}
+
+.centerbox {
+  padding: 6px 10px;
+}
+
+/* reloj */
+.datetime {
+  font-family: "CaskaydiaCove Nerd Font", "CaskaydiaCoveNF-Regular", monospace;
+  font-weight: 600;
+  font-size: 13px;
+  color: #d6e2ff;
+}
